@@ -1,0 +1,44 @@
+﻿@model IEnumerable<ReadCSV_WebApplication.Models.MovieModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                FilmId
+            </th>
+            <th>
+                Film Name
+            </th>
+            <th>
+                Film Release Date
+            </th>
+            <th>
+                Film Oscar Wins
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FilmId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FilmName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FilmReleaseDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FilmOscarWins)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

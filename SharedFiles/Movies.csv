@@ -1,0 +1,261 @@
+﻿FilmID;FilmName;FilmReleaseDate;FilmOscarWins
+1;Jurassic Park;1993-07-16 00:00:00.000;3
+2;Spider-Man;2002-06-14 00:00:00.000;0
+3;King Kong;2005-12-15 00:00:00.000;3
+5;Superman Returns;2006-07-16 00:00:00.000;0
+6;Titanic;1998-01-23 00:00:00.000;11
+7;Evan Almighty;2007-08-03 00:00:00.000;0
+8;Waterworld;1995-08-11 00:00:00.000;0
+9;Pearl Harbor;2001-06-01 00:00:00.000;1
+10;Transformers;2007-07-27 00:00:00.000;0
+11;Harry Potter and the Order of the Phoenix;2007-07-12 00:00:00.000;0
+12;Beowulf;2007-11-16 00:00:00.000;0
+13;Bee Movie;2007-12-14 00:00:00.000;0
+14;Pirates of the Caribbean: At World's End;2007-05-24 00:00:00.000;0
+15;I am Legend;2007-12-26 00:00:00.000;0
+16;Ratatouille;2007-10-12 00:00:00.000;1
+17;Troy;2004-05-21 00:00:00.000;0
+18;Harry Potter and the Goblet of Fire;2005-11-18 00:00:00.000;0
+19;Batman Begins;2005-06-16 00:00:00.000;0
+20;Charlie and the Chocolate Factory;2005-07-29 00:00:00.000;0
+21;Pirates of the Caribbean: Dead Man's Chest;2006-07-06 00:00:00.000;1
+22;Die Another Day;2002-11-20 00:00:00.000;0
+23;Lethal Weapon 4;1998-09-18 00:00:00.000;0
+24;Armageddon;1998-08-07 00:00:00.000;0
+25;Men in Black 2;2002-08-02 00:00:00.000;0
+26;Spider-Man 3;2007-05-04 00:00:00.000;0
+27;Spider-Man 2;2004-07-16 00:00:00.000;1
+28;Stealth;2005-08-05 00:00:00.000;0
+29;Final Fantasy: The Spirits Within;2001-08-03 00:00:00.000;0
+30;Miami Vice;2006-08-04 00:00:00.000;0
+31;The World Is Not Enough;1999-11-26 00:00:00.000;0
+32;Master and Commander: The Far Side of the World;2003-11-28 00:00:00.000;2
+33;War of the Worlds;2005-07-01 00:00:00.000;0
+34;The Bourne Ultimatum;2007-08-17 00:00:00.000;3
+35;Harry Potter and the Prisoner of Azkaban;2004-05-31 00:00:00.000;0
+36;The Matrix Reloaded;2003-05-21 00:00:00.000;0
+37;The Da Vinci Code;2006-05-19 00:00:00.000;0
+38;Harry Potter and the Philosopher's Stone;2001-11-16 00:00:00.000;0
+39;The Day After Tomorrow;2004-05-27 00:00:00.000;0
+40;Pirates of the Caribbean: Curse of the Black Pearl;2003-08-08 00:00:00.000;0
+41;The Last Samurai;2004-01-09 00:00:00.000;0
+42;The Perfect Storm;2000-07-28 00:00:00.000;0
+43;Mission: Impossible III;2006-05-04 00:00:00.000;0
+44;Mission: Impossible II;2000-07-07 00:00:00.000;0
+45;Windtalkers;2002-08-30 00:00:00.000;0
+46;Star Wars: Episode II - Attack of the Clones;2002-05-16 00:00:00.000;0
+47;Monsters, Inc.;2002-02-08 00:00:00.000;1
+48;Star Wars: Episode I - The Phantom Menace;1999-07-16 00:00:00.000;0
+49;Star Wars: Episode III - Revenge of the Sith;2005-05-19 00:00:00.000;0
+50;The Matrix Revolutions;2003-11-05 00:00:00.000;0
+51;Tomorrow Never Dies;1997-12-12 00:00:00.000;0
+52;Ocean's Eleven;2002-02-15 00:00:00.000;0
+53;Live Free or Die Hard;2007-07-04 00:00:00.000;0
+54;Around the World in 80 Days;2004-07-09 00:00:00.000;0
+55;Kingdom of Heaven;2005-05-06 00:00:00.000;0
+56;Mr. and Mrs. Smith;2005-06-10 00:00:00.000;0
+57;The Aviator;2005-01-06 00:00:00.000;5
+58;Ali;2002-02-22 00:00:00.000;0
+59;The Lord of the Rings: Fellowship of the Ring;2001-12-19 00:00:00.000;4
+60;I, Robot;2004-08-06 00:00:00.000;0
+61;Casino Royale;2006-11-16 00:00:00.000;0
+62;Minority Report;2002-07-04 00:00:00.000;0
+63;Terminator 2: Judgement Day;1991-08-16 00:00:00.000;6
+64;Catwoman;2004-08-13 00:00:00.000;0
+65;Harry Potter and the Chamber of Secrets;2002-11-15 00:00:00.000;0
+66;American Gangster;2007-11-16 00:00:00.000;0
+67;Blood Diamond;2007-01-26 00:00:00.000;0
+68;Gladiator;2000-05-12 00:00:00.000;5
+69;True Lies;1994-08-12 00:00:00.000;0
+70;Gangs of New York;2003-01-09 00:00:00.000;0
+71;Black Hawk Down;2002-01-18 00:00:00.000;2
+72;The Fifth Element;1997-06-06 00:00:00.000;0
+73;The Lord of the Rings: Return of the King;2003-12-17 00:00:00.000;11
+74;The Lord of the Rings: The Two Towers;2002-12-18 00:00:00.000;2
+75;Rush Hour 3;2007-08-10 00:00:00.000;0
+76;Rush Hour 2;2001-08-03 00:00:00.000;0
+77;Men in Black;1997-08-01 00:00:00.000;1
+78;The Departed;2006-10-06 00:00:00.000;4
+79;Die Hard: With A Vengeance;1995-08-18 00:00:00.000;0
+80;Cinderella Man;2005-09-09 00:00:00.000;0
+81;The Bourne Supremacy;2004-08-13 00:00:00.000;0
+82;Last Action Hero;1993-07-30 00:00:00.000;0
+83;Cast Away;2001-01-12 00:00:00.000;0
+84;Ocean's Twelve;2005-02-04 00:00:00.000;0
+85;Click;2006-09-29 00:00:00.000;0
+86;Bruce Almighty;2003-06-27 00:00:00.000;0
+87;Mission: Impossible;1996-07-05 00:00:00.000;0
+88;Deep Impact;1998-05-15 00:00:00.000;0
+89;Road to Perdition;2002-09-27 00:00:00.000;1
+90;A Beautiful Mind;2002-02-22 00:00:00.000;4
+91;Children of Men;2006-09-22 00:00:00.000;0
+92;Munich;2006-01-27 00:00:00.000;0
+93;Independence Day;1996-08-09 00:00:00.000;1
+94;X-Men;2000-08-18 00:00:00.000;0
+95;X2;2003-05-01 00:00:00.000;0
+96;The Rock;1996-06-21 00:00:00.000;0
+97;Constantine;2005-03-18 00:00:00.000;0
+98;Unbreakable;2000-12-29 00:00:00.000;0
+99;Talladega Nights: The Ballad of Ricky Bobby;2006-09-15 00:00:00.000;0
+100;The Simpsons Movie;2007-07-25 00:00:00.000;0
+101;Braveheart;1995-09-08 00:00:00.000;5
+102;Jarhead;2006-01-13 00:00:00.000;0
+103;The Village;2004-08-20 00:00:00.000;0
+104;Shrek the Third;2007-06-29 00:00:00.000;0
+105;Shrek 2;2004-07-02 00:00:00.000;0
+106;The Abyss;1989-10-13 00:00:00.000;1
+107;Star Trek: Insurrection;1999-01-01 00:00:00.000;0
+108;Who Framed Roger Rabbit?;1988-12-02 00:00:00.000;0
+109;Sleepy Hollow;2000-01-07 00:00:00.000;1
+110;xXx;2002-10-17 00:00:00.000;0
+111;Die Hard 2;1990-08-17 00:00:00.000;0
+112;The Long Kiss Goodnight;1996-11-29 00:00:00.000;0
+113;Apollo 13;1995-09-22 00:00:00.000;2
+114;Saving Private Ryan;1998-09-11 00:00:00.000;5
+115;Fight Club;1999-11-12 00:00:00.000;0
+116;The Matrix;1999-06-11 00:00:00.000;4
+117;Total Recall;1990-07-27 00:00:00.000;0
+118;Cliffhanger;1993-06-25 00:00:00.000;0
+119;Clear and Present Danger;1994-08-03 00:00:00.000;0
+120;GoldenEye;1995-11-24 00:00:00.000;0
+121;The Black Dahlia;2006-09-15 00:00:00.000;0
+122;The Truman Show;1998-10-09 00:00:00.000;0
+123;Event Horizon;1997-08-22 00:00:00.000;0
+124;The Bourne Identity;2002-09-06 00:00:00.000;0
+125;Hellboy;2004-09-02 00:00:00.000;0
+126;Starsky & Hutch;2004-03-19 00:00:00.000;0
+127;Intolerable Cruelty;2003-10-24 00:00:00.000;0
+128;300;2007-03-23 00:00:00.000;0
+129;Star Trek: Nemesis;2003-01-03 00:00:00.000;0
+130;Superman;1978-12-21 00:00:00.000;0
+131;Crimson Tide;1995-11-03 00:00:00.000;0
+132;Deja Vu;2006-12-15 00:00:00.000;0
+133;Man On Fire;2004-10-08 00:00:00.000;0
+134;Enemy of the State;1998-12-26 00:00:00.000;0
+135;Kill Bill: Vol. 1;2003-10-17 00:00:00.000;0
+136;Alien 3;1992-08-21 00:00:00.000;0
+137;Shanghai Noon;2000-08-25 00:00:00.000;0
+138;Kill Bill: Vol. 2;2004-04-23 00:00:00.000;0
+139;Blade II;2002-03-29 00:00:00.000;0
+140;Flags of our Fathers;2006-12-22 00:00:00.000;0
+141;Casino;1996-02-23 00:00:00.000;0
+142;Robin Hood: Prince of Thieves;1991-07-19 00:00:00.000;0
+143;Shrek;2001-06-29 00:00:00.000;1
+144;Shanghai Knights;2003-04-04 00:00:00.000;0
+145;Indiana Jones and the Last Crusade;1989-06-30 00:00:00.000;1
+146;Star Trek: First Contact;1996-12-13 00:00:00.000;0
+147;Blade;1998-11-13 00:00:00.000;0
+148;Patriot Games;1992-09-25 00:00:00.000;0
+149;The Fugitive;1993-09-24 00:00:00.000;1
+150;The Prestige;2006-11-10 00:00:00.000;0
+151;The Last of the Mohicans;1992-11-06 00:00:00.000;1
+152;Apocalypto;2007-01-05 00:00:00.000;0
+153;Wedding Crashers;2005-07-14 00:00:00.000;0
+154;Back to the Future Part III;1990-07-11 00:00:00.000;0
+155;Back to the Future Part II;1989-11-24 00:00:00.000;0
+156;Licence to Kill;1989-07-14 00:00:00.000;0
+157;The Living Daylights;1987-06-30 00:00:00.000;0
+158;Sin City;2005-06-03 00:00:00.000;0
+159;Serenity;2005-10-07 00:00:00.000;0
+160;Star Trek: Generations;1994-11-18 00:00:00.000;0
+161;Never Say Never Again;1983-12-15 00:00:00.000;0
+162;Star Trek: The Motion Picture;1979-12-20 00:00:00.000;0
+163;Rush Hour;1998-12-04 00:00:00.000;0
+164;Lethal Weapon 3;1992-08-14 00:00:00.000;0
+165;Star Wars: Episode IV - Return of the Jedi;1983-05-25 00:00:00.000;0
+166;A History of Violence;2005-09-30 00:00:00.000;0
+167;Moonraker;1979-06-29 00:00:00.000;0
+168;Get Shorty;1996-03-15 00:00:00.000;0
+169;The Assassination of Jesse James by the Coward Robert Ford;2007-11-30 00:00:00.000;0
+170;Million Dollar Baby;2005-01-14 00:00:00.000;4
+171;Se7en;1996-01-05 00:00:00.000;0
+172;The Hunt For Red October;1990-04-20 00:00:00.000;1
+173;Ghost Busters;1984-12-07 00:00:00.000;0
+174;Star Trek V: The Final Frontier;1989-10-20 00:00:00.000;0
+175;Indiana Jones and the Temple of Doom;1984-06-15 00:00:00.000;1
+176;Blade Runner;1982-09-09 00:00:00.000;0
+177;Die Hard;1989-02-03 00:00:00.000;0
+178;For Your Eyes Only;1981-06-26 00:00:00.000;0
+179;Octopussy;1983-06-10 00:00:00.000;0
+180;Star Trek VI: The Undiscovered Country;1992-02-14 00:00:00.000;0
+181;The Running Man;1988-10-21 00:00:00.000;0
+182;Open Range;2004-03-19 00:00:00.000;0
+183;Kindergarten Cop;1991-02-01 00:00:00.000;0
+184;O Brother, Where Art Thou?;2000-09-15 00:00:00.000;0
+185;Goodfellas;1990-09-19 00:00:00.000;1
+186;The Passion of the Christ;2004-03-26 00:00:00.000;0
+187;The Untouchables;1987-09-18 00:00:00.000;1
+188;Schindler's List;1994-02-18 00:00:00.000;7
+189;Anchorman: The Legend of Ron Burgundy;2004-09-10 00:00:00.000;0
+190;Scarface;1983-12-09 00:00:00.000;0
+191;Star Trek IV: The Voyage Home;1987-04-10 00:00:00.000;0
+192;King Kong;1976-12-17 00:00:00.000;0
+193;Star Wars: Episode V - The Empire Strikes Back;1980-05-21 00:00:00.000;1
+194;Gandhi;1982-12-08 00:00:00.000;8
+195;Equilibrium;2003-03-14 00:00:00.000;0
+196;From Dusk Till Dawn;1996-05-31 00:00:00.000;0
+197;Raiders of the Lost Ark;1981-07-30 00:00:00.000;4
+199;Back to the Future;1985-12-04 00:00:00.000;1
+200;Dances With Wolves;1991-02-08 00:00:00.000;7
+201;Star Trek III: The Search For Spock;1984-07-27 00:00:00.000;0
+202;Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan;2006-11-02 00:00:00.000;0
+203;Raging Bull;1981-04-10 00:00:00.000;2
+204;Aliens;1986-08-29 00:00:00.000;2
+205;Hero;2004-09-24 00:00:00.000;0
+206;Hot Fuzz;2007-02-14 00:00:00.000;0
+207;Leon;1995-02-03 00:00:00.000;0
+208;High Plains Drifter;1973-08-22 00:00:00.000;0
+209;Collateral;2004-09-17 00:00:00.000;0
+210;American Beauty;2000-02-04 00:00:00.000;5
+211;Lethal Weapon;1987-08-28 00:00:00.000;0
+212;Lethal Weapon 2;1989-09-15 00:00:00.000;0
+213;Crouching Tiger, Hidden Dragon;2001-01-05 00:00:00.000;4
+214;Brokeback Mountain;2006-01-13 00:00:00.000;3
+215;Hulk;2003-07-18 00:00:00.000;0
+216;Sense and Sensibility;1996-02-23 00:00:00.000;1
+217;Ride with the Devil;1999-11-05 00:00:00.000;0
+218;Twins;1989-03-17 00:00:00.000;0
+219;28 Days Later…;2002-11-01 00:00:00.000;0
+220;The Beach;2000-02-11 00:00:00.000;0
+221;Trainspotting;1996-02-23 00:00:00.000;0
+222;The Spy Who Loved Me;1977-08-03 00:00:00.000;0
+223;Downfall;2005-04-01 00:00:00.000;0
+224;Letters from Iwo Jima;2007-02-23 00:00:00.000;1
+225;Star Trek II: The Wrath of Khan;1982-07-16 00:00:00.000;0
+226;House of Flying Daggers;2005-01-14 00:00:00.000;0
+227;Das Boot;1982-02-10 00:00:00.000;0
+228;Casino Royale;1967-04-28 00:00:00.000;0
+229;Star Wars: Episode IV - A New Hope;1977-12-27 00:00:00.000;6
+230;E.T.: The Extra-Terrestrial;1982-12-09 00:00:00.000;4
+231;Amelie;2001-10-05 00:00:00.000;0
+232;You Only Live Twice;1967-06-13 00:00:00.000;0
+233;Thunderball;1965-12-29 00:00:00.000;1
+234;Alien;1979-09-06 00:00:00.000;1
+236;On Her Majesty's Secret Service;1969-12-18 00:00:00.000;0
+237;Pulp Fiction;1994-10-21 00:00:00.000;1
+238;Rumble in the Bronx;1997-07-04 00:00:00.000;0
+239;Diamonds are Forever;1971-12-30 00:00:00.000;0
+240;Fargo;1996-05-31 00:00:00.000;2
+241;Live and Let Die;1973-07-06 00:00:00.000;0
+242;The Man with the Golden Gun;1974-12-20 00:00:00.000;0
+243;Good Night, and Good Luck;2006-02-17 00:00:00.000;0
+244;Pale Rider;1985-06-28 00:00:00.000;0
+245;The Terminator;1985-01-11 00:00:00.000;0
+246;Around the World in 80 Days;1956-10-17 00:00:00.000;5
+249;The Usual Suspects;1995-08-25 00:00:00.000;2
+250;Memento;2000-10-20 00:00:00.000;0
+251;Shaun of the Dead;2004-04-09 00:00:00.000;0
+252;Four Weddings and a Funeral;1994-05-13 00:00:00.000;0
+253;Night Watch;2005-10-07 00:00:00.000;0
+254;Goldfinger;1965-01-09 00:00:00.000;1
+255;The Lives of Others;2007-04-13 00:00:00.000;1
+256;From Russia with Love;1964-05-27 00:00:00.000;0
+257;Reservoir Dogs;1993-01-15 00:00:00.000;0
+258;Dr. No;1963-05-08 00:00:00.000;0
+259;King Kong;1933-04-07 00:00:00.000;0
+260;Seven Samurai;1956-11-19 00:00:00.000;0
+261;Super Size Me;2004-09-10 00:00:00.000;0
+262;Kagemusha;1980-10-06 00:00:00.000;0
+263;Ran;1985-06-01 00:00:00.000;1
+264;Sunshine;2007-04-05 00:00:00.000;0
+265;Once Were Warriors;1995-04-14 00:00:00.000;0
